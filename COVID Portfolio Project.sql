@@ -1,16 +1,7 @@
-/*
-Covid 19 Data Exploration 
-Skills used: Joins, CTE's, Temp Tables, Windows Functions, Aggregate Functions, Creating Views, Converting Data Types
-*/
-
 Select *
 FROM PortfolioProject..CovidDeaths$
 WHERE continent is not NULL
 Order BY 3,4
-
---Select *
---FROM PortfolioProject..CovidVaccinations$
---Order BY 3,4
 
 --Select Data to be utilized
 
