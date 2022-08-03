@@ -1,2 +1,3 @@
 # PortfolioProjects
-Projects to showcase proficiency in SQL and Excel
+Projects to showcase proficiency in SQL, Excel, and Python
+
